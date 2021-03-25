@@ -1,10 +1,6 @@
-#-------------------------------------------------------------------------------
-# Name: Henry Yun
-# Final Exam
-#-------------------------------------------------------------------------------
-# Honor Code Statement: I received no assistance on this assignment that
-# violates the ethical guidelines set forth by professor and class syllabus.
-#-------------------------------------------------------------------------------
+
+#just some fun functions made with a level of understanding from python
+
 def highest_grade(gradebook, major, level):
     p = 0
     for i in gradebook:
